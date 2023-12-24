@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811547148114",
+    "project_id": "beaulieu-e88ae",
+    "storage_bucket": "beaulieu-e88ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811547148114:android:e29d2c9c2c9f814cdc048b",
+        "android_client_info": {
+          "package_name": "com.example.beaulieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjqJ6NaMegamsJSjlx6znZjtVkK1cpD9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
